@@ -1,0 +1,45 @@
+----------Lesson-1----------(22.05.21)
+#1 -> What is JavaScript ?
+        ✅ https://betterprogramming.pub/what-makes-javascript-javascript-b9ab51ad983a
+
+#2 -> What can you do with it ?
+        ✅ Web Apps
+        ✅ Mobile Apps
+        ✅ Desktop Apps
+        ✅ Machine Learning
+        ✅ Real-time Networking Apps
+        ✅ Games || example: https://bruno-simon.com/
+
+#3 -> Where does JavaScript code run ?
+        ✅ JavaScript Engine
+              🎁 FireFox -> "SpiderMonkey"
+              🎁 Google -> "V8"
+        ✅ Node Js
+        ✅ Deno Js
+
+#4 -> JavaScript vs ECMAScript ?
+        JS -> Programming Language
+        ECMAScript (ES6) -> Specification
+
+#5 -> Setup Development Environment
+        ✅ Instaling Visual Studio Code (VSCode) || https://code.visualstudio.com/download
+        ✅ Installing Node Js  || https://nodejs.org/en/download/
+
+#6 -> Simple Example
+        ✅ JavaScript in Browser
+        ✅ JavaScript in Node
+
+================ Basics ================
+
+#7 -> Variables
+#8 -> Constants
+#9 -> Primative types
+        ✅ string
+        ✅ number
+        ✅ boolean
+        ✅ null
+        ✅ undefined
+#10 -> Reference types
+        ✅ Object
+        ✅ Array
+        ✅ Function
