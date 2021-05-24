@@ -1,0 +1,36 @@
+----------Lesson-1----------(22.05.21)
+     ================ Basics ================
+#1 -> Variables
+#2 -> Constants
+#3 -> Primative types
+        ✅ string
+        ✅ number
+        ✅ boolean
+        ✅ null
+        ✅ undefined
+#4 -> Reference types
+        ✅ Object -> {}
+        ✅ Array -> []
+        ✅ Function -> function functionName(a,b,c) {...}
+
+#5 -> Types of Functions
+============== Operators ==============
+#7 -> Assignment Operators (=)
+#8 -> Arithmetic Operators
+        ✅ +
+        ✅ -
+        ✅ *
+        ✅ /
+        ✅ %
+        ✅ **
+        ✅ Increment
+        ✅ Decrement
+#9 -> Comparison Operators
+        ✅ Relational
+        ✅ Equality
+#10 -> Ternary Operator
+#11 -> Logical Operator
+        ✅ && -> And
+        ✅ || -> Or
+        ✅ !  -> Not
+#12 -> Logical Operators with Non-boolean
