@@ -1,0 +1,23 @@
+----------Lesson-3----------(27.05.21)
+#1 -> Ternary Operator
+#2 -> Logical Operators with Non-boolean 👍🏻
+                ---Falsy---
+           "" -> Empty string
+           false -> boolean false
+           0 -> zero
+           null -> null value
+           undefined -> undefined value
+           NaN -> Not a Number
+
+   ========== Control Flow ==========
+#5 -> If...Else
+#6 -> Switch...Case
+
+   ========== Loops ==========
+#7 -> For
+#8 -> While
+#9 -> Do While
+
+   ========== Tasks ==========
+#1 -> diamond(height)
+#2 -> slope(height)
