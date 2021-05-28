@@ -1,0 +1,12 @@
+---------- Lesson-4 ----------(30.05.21)
+
+ =========== Loops ===========
+#1 -> Infinite Loops
+#2 -> For-in
+#3 -> For-of
+#4 -> Break and Continue
+#5 -> Exercise FizzBuzz()
+#6 -> Exercise CountTruthy()
+
+======== Tasks ========
+  ✅ https://codingbat.com for Js (https://the-winter.github.io/codingjs/)
