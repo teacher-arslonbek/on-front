@@ -1,0 +1,33 @@
+---------- Lesson-6 ----------(08.06.21)
+
+======== Objects ========
+#1 ->  Properties of an Object
+#2 ->  Cloning an Object
+#3 ->  Math
+         ✅ floor
+         ✅ max
+         ✅ min
+         ✅ pow
+         ✅ random
+         ✅ raound
+         ✅ sqrt
+#4 ->  String
+         ✅ charAt
+         ✅ endsWith || startsWith
+         ✅ includes
+         ✅ indexOf
+         ✅ toUpperCase || toLowerCase
+         ✅ subString
+         ✅ replace
+#5 ->  Template Literals
+#6 ->  Date
+         ✅ getFullYear
+         ✅ getMonth -> [0-11]
+         ✅ getDay -> [1-7]
+         ✅ now()
+         ✅ getMinutes
+         ✅ getSeconds
+#7 -> Homework List
+         ✅ String-2
+         ✅ String-3
+         ✅ https://www.figma.com/file/FGQ5A9hQnzlWOqP3AxWrZ2/Figma-Website-Template-Landie-Demo-Community?node-id=0%3A88
