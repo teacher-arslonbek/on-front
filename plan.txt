@@ -1,0 +1,13 @@
+---------- Lesson-5 ----------(08.06.21)
+======== Objects ========
+#1 ->  Basics
+#2 ->  Object Properties and Methods
+#3 ->  Factory Functions
+#4 ->  Global and Local vars
+#5 ->  Constructor Functions
+        ✅ Camel Notation
+        ✅ Pascal Notation
+#6 ->  Reference || Primative types
+        ✅ increment func test
+#7 ->  Dynamic Nature of Objects
+        ✅ delete keyword
