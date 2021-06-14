@@ -1,0 +1,30 @@
+---------- Lesson-7 ----------(14.06.21)
+ =========== Arrays ===========
+#1 -> Adding and Removing elements
+       --END--
+       ✅ push
+       ✅ pop
+       --BEGIN--
+       ✅ unshift
+       ✅ shift
+       --MIDDLE--
+       ✅ splice
+#2 -> Finding elements(Primative-types)
+       ✅ indexOf
+       ✅ lastIndexOf
+       ✅ includes
+#3 -> Finding elements(Referance-types)
+       ✅ find
+       ✅ findIndex
+       ✅ callback function
+       ✅ arrow function
+#4 -> Combining Arrays
+       ✅ concat
+       ✅ slice
+#5 -> Spread Operator
+       ✅ [...] || {...}
+
+#6 -> Homeworks
+       ✅ Array-1
+       ✅ cloning opened web site page https://www.apple.com/mac/
+
