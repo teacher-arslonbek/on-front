@@ -1,0 +1,21 @@
+---------- Lesson-8 ----------(15.06.21)
+ =========== Arrays-2 ===========
+#1 -> Iterating an Array
+       ✅ for of
+       ✅ forEach
+#2 -> Joining Arrays
+       ✅ join
+       ✅ split
+       ✅ example: ["https://stackoverflow.com/questions/7530137/javascript-form-error-array-not-registering"]
+#3 -> Sorting Array
+       ✅ sort
+       ✅ reverse
+#4 -> Filtering Array
+       ✅ filter
+#5 -> Mapping Array
+       ✅ map
+#6 -> Reducing an Array
+       ✅ reduce
+
+======== Exercises To Repeat All Lessons ========
+1️⃣ QUIZ-APP
