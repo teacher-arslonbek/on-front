@@ -1,0 +1,33 @@
+---------- Lesson-9 ----------(29.06.21)
+#1 -> Window Object
+        ✅ DOM - Document Object Model
+        ✅ BOM - Browser Object Model
+        ✅ JavaScript - (Arrays, objects, variables)
+#2 -> What is DOM (Document Object Model)
+       ✅ what is node
+#3 -> Nodes
+       ✅ childNodes
+       ✅ hasChildNodes()
+#5 -> Finding HTML Elements
+       ✅ getElementById
+       ✅ getElementsByTagName
+       ✅ getElementsByClassName
+       ✅ querySelect
+       ✅ querySelectAll
+#6 -> Changing HTML Elements
+       ✅ element.innerHTML
+       ✅ element.attribute
+       ✅ element.style.property
+#7 -> Adding and Deleting Elements
+       ✅ document.createElement(element)
+       ✅ document.removeChild(element)
+       ✅ document.appendChild(element)
+       ✅ document.replaceChild(new, old)
+       ✅ document.write(text)
+#8 -> Finding HTML Objects
+       ✅ document.forms
+       ✅ document.title
+       ✅ document.URL
+       ✅ document.body
+       ✅ document.baseURI
+       ✅ document.anchors
