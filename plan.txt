@@ -1,0 +1,18 @@
+---------- Lesson-10 ----------(01.07.21)
+#1 -> DOM CSS
+#2 -> DOM Events
+       ✅ onload
+       ✅ onclick
+       ✅ onmouseover
+       ✅ onmouseout
+       ✅ onchange
+       ✅ onkeydown
+       ...
+#3 -> DOM EventListener
+       ✅ addEventListener
+       ✅ removeEventListener
+       ✅ element.event = func (){}
+
+
+#4 -> =====HOMEWORK=====
+       ✅ https://www.figma.com/file/JeZQxivlpskt6hjCyJ8Yfi/Untitled?node-id=1%3A133
