@@ -1,1 +1,4 @@
-console.log("Welcome Lesson-10");
+// DOM ELEMENTS
+const boxElement = document.getElementById("box");
+boxElement.style.backgroundColor = "blue";
+boxElement.style.display = "flex";
