@@ -1,0 +1,10 @@
+#1 -> get DOM elements 👍🏻
+#2 -> create randomNumber 👍🏻
+#3 -> create radomOperation 👍🏻
+#4 -> create randomAnswers 👍🏻
+#5 -> create rendering functions
+       ✅ create renderQuestion function  👍🏻
+       ✅ create renderAnswer function  👍🏻
+       ✅ create renderOrderNumber function 👍🏻
+#6 -> create handling functions
+       ✅ function checkingAnswer function 👍🏻
