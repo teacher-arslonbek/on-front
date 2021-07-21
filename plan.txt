@@ -1,0 +1,11 @@
+---------- Lesson-14 ----------(21.07.21)
+
+========== Functions ==========
+#0 -> checking homework
+#1 -> Function Declarations vs Expressions
+#2 -> Hoisting -> "Yuk ko'tarish"
+#3 -> Arguments
+#4 -> The Rest Operator
+#5 -> The Spreat Operator
+#6 -> Default Parameters
+#7 -> Getters and Setters
