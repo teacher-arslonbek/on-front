@@ -1,7 +1,7 @@
 ---------- Lesson-15 ----------(24.07.21)
 
 ========== Functions ==========
-#0 -> checking homework
+#0 -> checking homework 👍🏻
 
 #1 -> The Rest Parameters
 #2 -> The Spreat Operator
