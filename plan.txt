@@ -1,0 +1,12 @@
+---------- Lesson-15 ----------(24.07.21)
+
+========== Functions ==========
+#0 -> checking homework
+
+#1 -> The Rest Parameters
+#2 -> The Spreat Operator
+#3 -> Default Parameters
+#4 -> Getters and Setters
+#5 -> Try and Catch
+#6 -> Local vs Global Scope
+#7 ->
