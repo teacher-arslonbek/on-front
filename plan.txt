@@ -1,0 +1,19 @@
+---------- Lesson-16 ----------(28.07.21)
+
+========== Functions ==========
+#1 -> checking homework 👍🏻
+
+========== Functions ==========
+#1 -> Try and Catch
+#2 -> Local vs Global Scope
+#3 -> The "this" Keyword
+
+============= Asynchronous JavaScript =============
+#4 -> setTimeout
+#5 -> Patterns
+       ✅ Callbacks
+       ✅ Promises
+       ✅ Async/await
+#6 -> Callbacks
+#7 -> Callback Hell
+#8 -> Named Functions
