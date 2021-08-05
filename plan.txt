@@ -1,11 +1,16 @@
 ---------- Lesson-17 ----------(05.08.21)
 
 ============= Asynchronous JavaScript =============
-#1 -> setTimeout
-#2 -> Patterns
+#1 -> Synchronous vs Asynchronous Code
+#2 -> Asynchronous Patterns
        ✅ Callbacks
        ✅ Promises
        ✅ Async/await
 #3 -> Callbacks
-#4 -> Callback Hell
-#5 -> Named Functions
+#4 -> Anonymous Function
+#5 -> Callback Hell
+#6 -> Named Functions
+#7 -> Promises
+       ✅ than
+       ✅ catch
+       ✅ finally
