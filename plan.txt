@@ -1,15 +1,11 @@
----------- Lesson-16 ----------(03.08.21)
-========== Functions ==========
-#1 -> Try and Catch
-#2 -> Local vs Global Scope
-#3 -> The "this" Keyword
+---------- Lesson-17 ----------(05.08.21)
 
 ============= Asynchronous JavaScript =============
-#4 -> setTimeout
-#5 -> Patterns
+#1 -> setTimeout
+#2 -> Patterns
        ✅ Callbacks
        ✅ Promises
        ✅ Async/await
-#6 -> Callbacks
-#7 -> Callback Hell
-#8 -> Named Functions
+#3 -> Callbacks
+#4 -> Callback Hell
+#5 -> Named Functions
