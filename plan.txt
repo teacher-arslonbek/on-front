@@ -1,16 +1,15 @@
----------- Lesson-17 ----------(05.08.21)
+---------- Lesson-18 ----------(05.08.21)
+
+============= HOMEWORK =============
+#1 -> Checking homeworks
 
 ============= Asynchronous JavaScript =============
-#1 -> Synchronous vs Asynchronous Code
-#2 -> Asynchronous Patterns
-       ✅ Callbacks
-       ✅ Promises
-       ✅ Async/await
-#3 -> Callbacks
-#4 -> Anonymous Function
-#5 -> Callback Hell
-#6 -> Named Functions
-#7 -> Promises
+
+#2 -> Promises
        ✅ than
        ✅ catch
        ✅ finally
+#3 -> Replacing Callbacks with Promises
+#4 -> Using Settled Promises
+#5 -> Running Promises in Parallel
+#6 -> Examples
