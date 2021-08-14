@@ -23,6 +23,7 @@ function loadImage(url) {
     image.src = url;
   });
 }
+
 const promises = [];
 for (let i = 0; i < 10; i++) {
   promises.push(
@@ -33,6 +34,7 @@ for (let i = 0; i < 10; i++) {
 }
 
 const imagesPromises = Promise.all(promises);
+
 imagesPromises.then((images) => {
   let result = "";
   images.forEach((img) => {

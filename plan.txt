@@ -1,4 +1,12 @@
 ---------- Lesson-19 ----------(14.08.21)
 
 ============= Asynchronous JavaScript =============
-#1 -> Callbacks 👍🏻
+#1 -> Async and Await
+#2 -> Example getFruit
+#3 -> Example load-images
+
+============= JS OOP (Object Oriented Programming) =============
+#4 -> Object
+#5 -> Using Object
+#6 -> What is Class?
+#7 -> Create Object with class
