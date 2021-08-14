@@ -1,21 +1,42 @@
 const boxElement = document.getElementById("box");
 
-function addImage(img) {
-  console.log("calling addImage Method");
+function addImage(img, alt) {
   const imgElement = document.createElement("img");
   imgElement.src = img;
-  imgElement.alt = "my image";
+  imgElement.alt = alt;
   boxElement.appendChild(imgElement);
 }
 
-function loadImage(url, callback) {
-  console.log("image loading...");
-  const image = new Image();
+function loadImage(url) {
+  return new Promise((resolve, reject) => {
+    const image = new Image();
 
-  image.onload = () => {
-    console.log("image loaded...");
-    callback(image.src);
-  };
+    image.onload = () => {
+      console.log("image loaded...");
+      resolve(image.src);
+    };
 
-  image.src = url;
+    image.onerror = () => {
+      reject("Img not found, 404");
+    };
+
+    image.src = url;
+  });
 }
+const promises = [];
+for (let i = 0; i < 10; i++) {
+  promises.push(
+    loadImage(
+      `https://picsum.photos/id/${Math.floor(Math.random() * 40)}/200/300`
+    )
+  );
+}
+
+const imagesPromises = Promise.all(promises);
+imagesPromises.then((images) => {
+  let result = "";
+  images.forEach((img) => {
+    result += `<img src="${img}" alt="image"/>`;
+  });
+  boxElement.innerHTML = result;
+});
