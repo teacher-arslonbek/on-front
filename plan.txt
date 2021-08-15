@@ -2,8 +2,8 @@
 
 ============= Asynchronous JavaScript =============
 #1 -> Async and Await
-#2 -> Example getFruit
-#3 -> Example load-images
+#2 -> Example getFruit 👍🏻
+#3 -> getUser promise vs async/await
 
 ============= JS OOP (Object Oriented Programming) =============
 #4 -> Object
