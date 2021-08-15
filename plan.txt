@@ -6,7 +6,8 @@
 #3 -> getUser promise vs async/await
 
 ============= JS OOP (Object Oriented Programming) =============
-#4 -> Object
-#5 -> Using Object
-#6 -> What is Class?
-#7 -> Create Object with class
+#4 -> Object 👍🏻
+#5 -> Using Object 👍🏻
+#6 -> What is Class? 👍🏻
+#7 -> Create Object with class 👍🏻
+#8 -> Create method in class  👍🏻
