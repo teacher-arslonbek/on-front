@@ -1,9 +1,17 @@
 ---------- Lesson-20 ----------(19.08.21)
 
 ============= JS OOP (Object Oriented Programming) =============
-#1 -> class
-#2 -> Static Methods
-#3 -> this keywords
-#4 -> calling method vs calling function
+#1 -> class 👍🏻
+#2 -> Static Methods 👍🏻
+#3 -> this keywords 👍🏻
+#4 -> calling method vs calling function 👍🏻
 #5 -> 🔔 coffee break 🔔 (10 min)
-#6 -> task for all
+#6 -> task for all - (20 min)
+
+
+
+const point = new Point(name,color,x,y)
+
+run(3,point)
+
+qizil rangli nuqta A va B uchuburchaklar ichida
