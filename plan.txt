@@ -1,13 +1,10 @@
----------- Lesson-19 ----------(14.08.21)
-
-============= Asynchronous JavaScript =============
-#1 -> Async and Await
-#2 -> Example getFruit 👍🏻
-#3 -> getUser promise vs async/await
+---------- Lesson-20 ----------(14.08.21)
 
 ============= JS OOP (Object Oriented Programming) =============
-#4 -> Object 👍🏻
-#5 -> Using Object 👍🏻
-#6 -> What is Class? 👍🏻
-#7 -> Create Object with class 👍🏻
-#8 -> Create method in class  👍🏻
+#1 -> class
+#2 -> Static Methods
+#3 -> this keywords
+#4 -> calling method vs calling function
+#5 -> 🔔 coffee break 🔔 (10 min)
+#6 -> task for all
+#7 ->
