@@ -1,4 +1,4 @@
----------- Lesson-20 ----------(14.08.21)
+---------- Lesson-20 ----------(19.08.21)
 
 ============= JS OOP (Object Oriented Programming) =============
 #1 -> class
@@ -7,4 +7,3 @@
 #4 -> calling method vs calling function
 #5 -> 🔔 coffee break 🔔 (10 min)
 #6 -> task for all
-#7 ->
