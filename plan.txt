@@ -1,4 +1,19 @@
 ---------- Lesson-21 ----------(21.08.21)
 
 ============= JS OOP (Object Oriented Programming) =============
-#1 -> 
+#1 -> Inheritance
+#2 -> Method overriding
+
+============== ES6 Modules ==============
+#3 -> Modules types
+       ✅ commonJs
+       ✅ ES6 Modules
+#4 -> CommonJS
+       ✅ exports
+       ✅ require
+#5 -> ES6 Modules
+       ✅ default export
+       ✅ named export
+       ✅ alias import
+       ✅ named import
+       ✅ all import
