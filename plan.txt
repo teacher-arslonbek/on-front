@@ -16,4 +16,5 @@
        ✅ named export
        ✅ alias import
        ✅ named import
+       ✅ default import
        ✅ all import
