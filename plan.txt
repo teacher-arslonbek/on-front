@@ -1,20 +1,35 @@
----------- Lesson-21 ----------(21.08.21)
-
-============= JS OOP (Object Oriented Programming) =============
-#1 -> Inheritance 👍🏻
-#2 -> Method overriding 👍🏻
+---------- Lesson-22 ----------(23.08.21)
 
 ==============  Modules ==============
-#3 -> Modules types 👍🏻
+#1 -> Modules types
        ✅ commonJs
        ✅ ES6 Modules
-#4 -> CommonJS 👍🏻
-       ✅ exports 👍🏻
-       ✅ require 👍🏻
-#5 -> ES6 Modules
+#2 -> CommonJS
+       ✅ exports
+       ✅ require
+#3 -> ES6 Modules
        ✅ default export
-       ✅ named export 👍🏻
+       ✅ named export
        ✅ alias import
-       ✅ named import 👍🏻
+       ✅ named import
        ✅ default import
        ✅ all import
+
+========== WELCOME TO REACT DEVELOPERS ==========
+#4 -> What is React Js
+        ✅ https://reactjs.org/
+        ✅ npm trends -> React vs Angular vs Vue
+        ✅ Component
+        ✅ Component example: kun.uz
+        ✅ Virtual Dom (VDOM) vs Real Dom (DOM)
+        ✅ React => "reacts to state changes"
+#5 -> Setup
+        ✅ node js install
+        ✅ npm i -g create-react-app
+        ✅ install vscode
+        ✅ install vscode extension:
+              ✅ Prettier
+              ✅ Simple react snippets
+#6 -> Create our first react app
+        ✅ Explain the entire file structure
+        ✅ Hello World

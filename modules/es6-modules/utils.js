@@ -6,5 +6,3 @@ export function displayUser(user) {
 }
 
 export const age = 20;
-
-
