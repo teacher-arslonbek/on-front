@@ -1,0 +1,39 @@
+---------- Lesson-23 ----------(26.08.21)
+
+============= React Course ==============
+
+#1 -> Create our first react app 👍🏻
+        ✅ Explain the entire file structure
+        ✅ Hello World
+
+#2 -> JSX 👍🏻
+#3 -> https://babeljs.io/ 👍🏻
+#4 -> Explain list
+        ✅ Components 👍🏻
+        ✅ Tables 👍🏻
+        ✅ Routing 👍🏻
+        ✅ Forms 👍🏻
+        ✅ HTTP Services 👍🏻
+        ✅ Auth 👍🏻
+        ✅ Deployments 👍🏻
+        ✅ Advanced react 👍🏻
+
+========== Components ==========
+#5 -> Explain components section 👍🏻
+#6 -> Create counter-app 👍🏻
+#7 -> Install bootstrap 👍🏻
+#8 -> Create first component 👍🏻
+       ✅ simple react snippets extension using 👍🏻
+#9 -> Embedding Expressions
+       ✅ React.createElement() 👍🏻
+       ✅ Return syntax 👍🏻
+       ✅ React.Fragment 👍🏻
+#10 -> JavaScript Expressions
+       ✅ Using variables with JSX 👍🏻
+       ✅ crete formatCount() method 👍🏻
+       ✅ destructuring 👍🏻
+#11 -> Setting Attributes 👍🏻
+       ✅ using img tag src attribute 👍🏻
+       ✅ using style attribute 👍🏻
+#12 -> Rendering Classes Dynamically 👍🏻
+       ✅ using vscode refactor method 👍🏻
