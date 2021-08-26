@@ -2,7 +2,7 @@
 
 ============= React Course ==============
 
-#1 -> Create our first react app
+#1 -> Create our first react app 👍🏻
         ✅ Explain the entire file structure
         ✅ Hello World
 
