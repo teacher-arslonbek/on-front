@@ -15,12 +15,21 @@ class Counter extends Component {
   getBadgeClass() {
     return "badge m-2 bg-" + (this.state.count === 0 ? "warning" : "primary");
   }
+  
+  // handle{Action}
+  handleIncrement = () => {
+    // this.state.count++;
+    // console.log("state = ", this.state);
+    this.setState({ count: this.state.count + 1 });
+  };
 
   render() {
     return (
       <main className='p-2'>
         <span className={this.getBadgeClass()}>{this.formatCount()}</span>
-        <button className='btn btn-primary m-2'>Increment</button>
+        <button onClick={this.handleIncrement} className='btn btn-primary m-2'>
+          Increment
+        </button>
       </main>
     );
   }

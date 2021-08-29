@@ -1,15 +1,15 @@
 ---------- Lesson-24 ----------(29.08.21)
 
    --------- Lesson Start ---------
-#1 -> Rendering List
-       ✅ using Array.map(() => JSX)
-       ✅ what is key props
-           🏆 https://bit.ly/3zphOKA
-#2 -> JSX In Depth
+#1 -> Rendering List 👍🏻
+       ✅ using Array.map(() => JSX) 👍🏻
+       ✅ what is key props 👍🏻
+           🏆 https://bit.ly/3zphOKA 👍🏻
+#2 -> JSX In Depth 👍🏻
        ✅ https://bit.ly/3yqnwdV
-#2 -> Conditional Rendering
-#3 -> Handling Events
-#4 -> Explaining Handling Events using error
-#5 -> Binding Event Handlers
-#6 -> Updating the State
-#7 -> What Happens When State Changes
+#2 -> Conditional Rendering 👍🏻
+#3 -> Handling Events 👍🏻
+#4 -> Explaining Handling Events using error 👍🏻
+#5 -> Binding Event Handlers 👍🏻
+#6 -> Updating the State 👍🏻
+#7 -> What Happens When State Changes 👍🏻
