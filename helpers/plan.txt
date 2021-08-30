@@ -1,15 +1,28 @@
----------- Lesson-24 ----------(29.08.21)
+---------- Lesson-25 ----------(31.08.21)
 
    --------- Lesson Start ---------
-#1 -> Rendering List 👍🏻
-       ✅ using Array.map(() => JSX) 👍🏻
-       ✅ what is key props 👍🏻
-           🏆 https://bit.ly/3zphOKA 👍🏻
-#2 -> JSX In Depth 👍🏻
-       ✅ https://bit.ly/3yqnwdV
-#2 -> Conditional Rendering 👍🏻
-#3 -> Handling Events 👍🏻
-#4 -> Explaining Handling Events using error 👍🏻
-#5 -> Binding Event Handlers 👍🏻
-#6 -> Updating the State 👍🏻
-#7 -> What Happens When State Changes 👍🏻
+#1 -> Updating the State
+#2 -> What Happens When State Changes
+#3 -> Passing Event Arguments
+
+   --------- Composing Components ---------
+#4 -> Composing Components Introduction
+       ✅ Passing Data
+       ✅ Raise and handle Event
+       ✅ Multiple Components
+       ✅ Functional Components
+       ✅ Lifecycle in Class Component
+#5 -> Create And Using Counters Component
+       ✅ counters = [
+          { id: 1, value: 0},
+          { id: 2, value: 0},
+          { id: 3, value: 0},
+          { id: 4, value: 0},
+       ];
+#6 -> Passing Data to Components
+       ✅ Create example props with React.createElement
+#7 -> Passing Children
+#8 -> Debugging React Apps
+       ✅ React Developer Tools
+       ✅ Component section
+       ✅ Profiler section
