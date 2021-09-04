@@ -1,28 +1,13 @@
----------- Lesson-25 ----------(31.08.21)
+---------- Lesson-26 ----------(31.08.21)
 
    --------- Lesson Start ---------
-#1 -> Updating the State
-#2 -> What Happens When State Changes
-#3 -> Passing Event Arguments
+#1 -> Props vs State
+#2 -> Raising and Handling Events
+#3 -> Updating State
+       ✅ add delete btn
+#4 -> Single Source of Truth (SSOT)
+       ✅ add reset btn
+#5 -> Removing the local state
+#6 -> Add Increment btn
 
-   --------- Composing Components ---------
-#4 -> Composing Components Introduction
-       ✅ Passing Data
-       ✅ Raise and handle Event
-       ✅ Multiple Components
-       ✅ Functional Components
-       ✅ Lifecycle in Class Component
-#5 -> Create And Using Counters Component
-       ✅ counters = [
-          { id: 1, value: 0},
-          { id: 2, value: 0},
-          { id: 3, value: 0},
-          { id: 4, value: 0},
-       ];
-#6 -> Passing Data to Components
-       ✅ Create example props with React.createElement
-#7 -> Passing Children
-#8 -> Debugging React Apps
-       ✅ React Developer Tools
-       ✅ Component section
-       ✅ Profiler section
+
