@@ -1,13 +1,13 @@
 ---------- Lesson-26 ----------(04.09.21)
 
    --------- Lesson Start ---------
-#1 -> Props vs State
-#2 -> Raising and Handling Events
-#3 -> Updating State
-       ✅ add delete btn
-#4 -> Single Source of Truth (SSOT)
-       ✅ add reset btn
-#5 -> Removing the local state
-#6 -> Add Increment btn
+#1 -> Props vs State 👍🏻
+#2 -> Raising and Handling Events 👍🏻
+#3 -> Updating State 👍🏻
+       ✅ add delete btn 👍🏻
+#4 -> Single Source of Truth (SSOT) 👍🏻
+       ✅ add reset btn 👍🏻
+#5 -> Removing the local state 👍🏻
+#6 -> Add Increment btn 👍🏻
 
 
