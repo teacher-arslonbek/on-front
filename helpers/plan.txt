@@ -22,3 +22,4 @@
 #5 -> Changing Some Method names
 #6 -> Stateless Function Components
 #7 -> Destructuring Arguments
+#8 -> What is Lifecycle
