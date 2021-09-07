@@ -11,3 +11,14 @@
 #6 -> Add Increment btn 👍🏻
 
 
+--------- Lesson-27 -----------(07.09.21)
+   --------- Checking Homework ---------
+#1 -> Checking homeworks 👍🏻
+
+   --------- Lesson Start ---------
+#2 -> Using bootstrap css for navbar component
+#3 -> Using Multiple Components via App Component
+#4 -> Lifting state to App Component
+#5 -> Changing Some Method names
+#6 -> Stateless Function Components
+#7 -> Destructuring Arguments
