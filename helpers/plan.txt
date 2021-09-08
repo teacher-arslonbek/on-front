@@ -1,25 +1,13 @@
----------- Lesson-26 ----------(04.09.21)
-
-   --------- Lesson Start ---------
-#1 -> Props vs State 👍🏻
-#2 -> Raising and Handling Events 👍🏻
-#3 -> Updating State 👍🏻
-       ✅ add delete btn 👍🏻
-#4 -> Single Source of Truth (SSOT) 👍🏻
-       ✅ add reset btn 👍🏻
-#5 -> Removing the local state 👍🏻
-#6 -> Add Increment btn 👍🏻
-
-
---------- Lesson-27 -----------(07.09.21)
+--------- Lesson-28 -----------(07.09.21)
    --------- Checking Homework ---------
 #1 -> Checking homeworks 👍🏻
 
    --------- Lesson Start ---------
-#2 -> Using bootstrap css for navbar component
-#3 -> Using Multiple Components via App Component
-#4 -> Lifting state to App Component
-#5 -> Changing Some Method names
-#6 -> Stateless Function Components
-#7 -> Destructuring Arguments
+#2 -> Using bootstrap css for navbar component 👍🏻
+#3 -> Using Multiple Components via App Component 👍🏻
+#4 -> Lifting state to App Component 👍🏻
+#5 -> Changing Some Method names 👍🏻
+#6 -> Stateless Function Components 👍🏻
+#7 -> Destructuring Arguments 👍🏻
 #8 -> What is Lifecycle
+#9 -> Create foods-app project
